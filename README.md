@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paicua
 - 👀 I’m interested in system administrator
-- 🌱 I’m currently learning GIT/Kannel/Asterisk/
+- 🌱 I’m currently learning GIT/Kannel/Asterisk and other
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
